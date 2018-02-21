@@ -17,3 +17,4 @@ for i = 1:10
        nGreater = nGreater + 1;
    end
 end
+disp(nGreater);
